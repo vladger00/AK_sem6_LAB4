@@ -1,0 +1,1 @@
+cmd_/home/vlad/repos/busybox/_install/examples/test1/hello.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/vlad/repos/busybox/_install/examples/test1/hello.ko /home/vlad/repos/busybox/_install/examples/test1/hello.o /home/vlad/repos/busybox/_install/examples/test1/hello.mod.o ;  true

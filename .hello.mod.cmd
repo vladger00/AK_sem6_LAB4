@@ -1,0 +1,1 @@
+cmd_/home/vlad/repos/busybox/_install/examples/test1/hello.mod := { echo  /home/vlad/repos/busybox/_install/examples/test1/hello.o; echo; } > /home/vlad/repos/busybox/_install/examples/test1/hello.mod
